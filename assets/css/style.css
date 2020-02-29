@@ -1,0 +1,8 @@
+.graph_container {
+    position: relative;
+}
+
+.canvas1_container,
+.canvas_container {
+    position: absolute;
+}
